@@ -1,2 +1,2 @@
 # catapulting_planets
-Simulation/Game develop in the NASA Space Apps Challenge - Itajubá - 2019
+Simulation/Game developed in the NASA Space Apps Challenge - Itajubá - 2019
